@@ -1,0 +1,13 @@
+Acceso al enlace de función lambda AWS.
+
+recibe un json en el siguiente formato.
+
+{
+  "nombres": "valor",
+  "apellido1": "valor",
+  "apellido2": "valor"
+}
+
+
+https://fxuchlfd5euasliywno7nwf7vu0iticp.lambda-url.us-east-2.on.aws/
+
